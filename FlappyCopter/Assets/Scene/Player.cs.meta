@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 540b36016686a1d488d565bfdb74d745
+timeCreated: 1533590882
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - avion2: {fileID: 21300000, guid: 0377ba6123c89fe409c5ab7f5e9425d0, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
